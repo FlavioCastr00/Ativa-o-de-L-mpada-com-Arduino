@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=bDGE-JHIh0I
 - Soquete para lâmpada
 - Lâmpada LED
 - Cabos macho-macho e macho-fêmea
+
+# Referências
+
+- "How to use PIR Motion Sensor with Arduino | Motion sensor light", canal Hash Include Electronics | Link: https://www.youtube.com/watch?v=8wiCwrIaIT8
+- "How to Use a PIR Sensor with Arduino (Lesson #26)", canal Science Buddies | Link: https://www.youtube.com/watch?v=3gj_68ywod4
